@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 f = open('helloworld.html', 'w')
 
 message = """<html>
